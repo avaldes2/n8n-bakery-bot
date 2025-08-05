@@ -8,7 +8,7 @@ FROM n8nio/n8n
 
 # Optional hardcoded env vars (override in Render UI if needed)
 
->>>>>>> 925e78f (Fix Dockerfile with valid tunnel URL and n8n command)
+
 ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=admin
 ENV N8N_BASIC_AUTH_PASSWORD=securepassword
